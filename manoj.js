@@ -2,7 +2,11 @@ import React from 'react'
 
 const manoj = () => {
   return (
-    <div>manoj</div>
+    <div>
+      <h1>
+        aur bhai kesa h 
+      </h1>
+    </div>
   )
 }
 
