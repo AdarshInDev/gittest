@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Hi = () => {
-  return (
-    <div>Hi</div>
-    <div>Hi</div>
-    <div>Hi</div>
-  )
-}
+  return <div>bhadiya hu bhai tu bata hello</div>;
+};
 
-export default Hi
+export default Hi;
