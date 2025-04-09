@@ -4,7 +4,7 @@ const manoj = () => {
   return (
     <div>
       <h1>
-        aur bhai kesa h chutiya hai
+        mein bhadiya bhai kesa h tu 
       </h1>
     </div>
   )
